@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **HTML ,CSS ,JAVASCRIPT**
 
-- 💬 Ask me about **A student who is interested in exploring in new skills and learn new things**
+- 💬 **A student who is interested in exploring in new skills and learn new things**
 
 - 📫 How to reach me **durgaprasad010605@gmail.com**
 
