@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm R DURGAPRASAD</h1>
-<h3 align="center">A undergraduate In kuppam Engineering college</h3>
+<h3 align="center">A B-Tech undergraduate In kuppam Engineering college</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durgaprasad010605&label=Profile%20views&color=0e75b6&style=flat" alt="durgaprasad010605" /> </p>
 
