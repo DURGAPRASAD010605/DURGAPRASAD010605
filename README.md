@@ -1,21 +1,73 @@
-<h1 align="center">Hi 👋 I'm R DURGAPRASAD</h1>
-<h3 align="center">A B-Tech undergraduate In kuppam Engineering college</h3>
+<h1 align="center">Hi 👋 I'm R Durga Prasad</h1>
+<h3 align="center">B.Tech 3rd Year Undergraduate | Aspiring Full Stack & Web3 Developer 🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=durgaprasad010605&label=Profile%20views&color=0e75b6&style=flat" alt="durgaprasad010605" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=durgaprasad010605" alt="durgaprasad010605" /></a> </p>
-
-- 🌱 I’m currently learning **HTML ,CSS ,JAVASCRIPT**
-
-- 💬 **A student who is interested in exploring in new skills and learn new things**
-
-- 📫 How to reach me **durgaprasad010605@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/durga-prasad-4a41302aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="durga-prasad-4a41302aa" height="30" width="40" /></a>
-<a href="https://instagram.com/durgaprasad_rdp165" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="durgaprasad_rdp165" height="30" width="40" /></a>
+<p align="center">
+  🌐 <a href="https://durgaprasad010605.github.io/profile-portfolio"><b>My Portfolio Website</b></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=durgaprasad010605&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />
+</p>
+
+---
+
+## 👨‍🎓 About Me
+- 🎓 **B.Tech (3rd Year)** student at **Kuppam Engineering College**
+- 📊 Current CGPA: **8.5**
+- 💻 Passionate about **Web Development & Software Engineering**
+- 🌱 Currently learning **HTML, CSS & JavaScript**
+- 🔗 Exploring **Full Stack Development & Web3 technologies**
+- 🎯 Goal: Become a **Skilled Full Stack Developer**
+
+---
+
+## 🧠 What I’m Focused On (2026)
+- 📘 Strengthening **Frontend Development**
+- ⚙️ Improving **Java & Python programming**
+- 🧩 Practicing **problem-solving & DSA basics**
+- 🌐 Building a strong **developer profile on GitHub**
+
+---
+
+## 🛠️ Skills & Technologies
+**Languages:**  
+C • Java • Python • JavaScript  
+
+**Web:**  
+HTML5 • CSS3 • Responsive Design  
+
+**Database:**  
+MySQL  
+
+**Currently Exploring:**  
+Full Stack Development • Web3 Basics  
+
+---
+
+## 🤝 Connect With Me
+<p align="left">
+<a href="https://linkedin.com/in/durga-prasad-4a41302aa" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" width="45"/>
+</a>
+<a href="https://instagram.com/durgaprasad_rdp165" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="35" width="45"/>
+</a>
+</p>
+
+---
+
+## 📫 Reach Me
+📧 **Email:** durgaprasad010605@gmail.com  
+🌍 **Portfolio:** https://durgaprasad010605.github.io/profile-portfolio  
+
+---
+
+## 🚀 Career Goals
+✨ Master Full Stack Development  
+✨ Learn Blockchain & Web3  
+✨ Build scalable real-world applications  
+✨ Secure a good **internship / placement**
+
+---
+
+⭐ *Thanks for visiting my GitHub profile! Feel free to explore my repositories below.* 😊
